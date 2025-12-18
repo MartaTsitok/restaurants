@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function loadGoods() {
-    fetch('/cart.json')
+    fetch('./cart.json')
         .then(response => response.json())
         .then(data => {
             console.log('Данные загружены:', data);
@@ -132,4 +132,5 @@ function updateTotalPriceDisplay() {
             totalElement.textContent = window.totalPrice + ' руб.';
         }
     }
+
 }
