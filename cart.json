@@ -1,0 +1,56 @@
+{
+  "Viola": {
+    "name": "Анютины глазки",
+    "image" : "/img/viola.jpg",
+    "sizes": [
+      {"size": "S", "price": 20},
+      {"size": "M", "price": 30},
+      {"size": "L", "price": 50}
+    ]
+  },
+  "Cornflower": {
+    "name": "Василёк",
+    "image" : "/img/cornflower.jpg",
+    "sizes": [
+      {"size": "S", "price": 20},
+      {"size": "M", "price": 30},
+      {"size": "L", "price": 50}
+    ]
+  },
+  "Antririum": {
+    "name": "Антририум",
+    "image" : "/img/Antririum.jpg",
+    "sizes": [
+      {"size": "S", "price": 20},
+      {"size": "M", "price": 30},
+      {"size": "L", "price": 50}
+    ]
+  },
+  "Marigold": {
+    "name": "Бархатцы",
+    "image" : "/img/marigold.jpg",
+    "sizes": [
+      {"size": "S", "price": 20},
+      {"size": "M", "price": 30},
+      {"size": "L", "price": 50}
+    ]
+  },
+  "Cinnia": {
+    "name": "Циния",
+    "image" : "/img/cinnia.jpg",
+    "sizes": [
+      {"size": "S", "price": 20},
+      {"size": "M", "price": 30},
+      {"size": "L", "price": 50}
+    ]
+  },
+  "Antririumm": {
+    "name": "Антририум",
+    "image" : "/img/Antririum.jpg",
+    "sizes": [
+      {"size": "S", "price": 20},
+      {"size": "M", "price": 30},
+      {"size": "L", "price": 50}
+    ]
+  }
+}
